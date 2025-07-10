@@ -1,7 +1,7 @@
 # 🚀 Aathif Zahir – Full Stack Developer Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://aathifzahir.dev)
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aathifzahir/portfolio)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://Shashank Poojary.dev)
+[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank Poojary/portfolio)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -71,7 +71,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/aathifzahir/portfolio.git
+git clone https://github.com/Shashank Poojary/portfolio.git
 cd portfolio
 
 # Install dependencies
@@ -115,8 +115,8 @@ vercel deploy --prod
 I’m open to collaborations, opportunities, or just a chat!
 
 - 📧 [aathif@example.com](mailto:aathif@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aathifzahir)
-- 💻 [GitHub](https://github.com/aathifzahir)
+- 💼 [LinkedIn](https://linkedin.com/in/Shashank Poojary)
+- 💻 [GitHub](https://github.com/Shashank Poojary)
 
 ---
 
