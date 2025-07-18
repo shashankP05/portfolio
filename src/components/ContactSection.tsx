@@ -42,7 +42,6 @@ const ContactSection = () => {
       });
 
       const data = await response.json();
-      console.log(data); // Debug: log the API response
 
       if (!response.ok) throw new Error(data.message || "Submission failed");
 

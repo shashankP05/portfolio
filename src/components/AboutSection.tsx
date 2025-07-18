@@ -74,7 +74,7 @@ const AboutSection = () => {
                 <FileText className="w-5 h-5 text-primary" /> Bio
               </h3>
               <p className="text-muted-foreground">
-                Software engineering student with a passion for creating innovative solutions.
+                Computer Science engineering student with a passion for creating innovative solutions.
                 With a strong interest in AI/ML, I combine technical knowledge with creative problem-solving
                 to build intelligent, user-focused applications.
               </p>
@@ -96,8 +96,19 @@ const AboutSection = () => {
                     </h3>
                     <div className="space-y-2">
                       <p className="font-medium">BE in Computer Science</p>
+                       {/* College Logo */}
+                      <div className="pt-1 flex justify-start">
+                        <img 
+                          src="/imgs/smvitm1.png" 
+                          alt="SMVITM Logo" 
+                          className="h-16 object-contain opacity-80"
+                        />
+                      </div>
                       <p className="text-sm text-muted-foreground">
                         SMVITM (Sri Madhwa Vadiraja Institute of Technology and Management)
+                      </p>
+                      <p className="text-sm text-muted-foreground">
+                        Vishwothama Nagar, Bantakal, Karnataka
                       </p>
                       <p className="text-sm text-muted-foreground">
                         2021 - Present
@@ -178,11 +189,11 @@ const AboutSection = () => {
                   alt="Shashank Poojary"
                   loading="lazy"
                 />
-                <AvatarFallback>AZ</AvatarFallback>
+                <AvatarFallback>SK</AvatarFallback>
               </Avatar>
-              <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
+              {/* <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
                 6.71 GPA
-              </div>
+              </div> */}
             </motion.div>
 
             <motion.div
@@ -219,7 +230,7 @@ const AboutSection = () => {
               whileTap={{ scale: 0.98 }}
             >
               <Button className="gap-2" asChild onClick={handledownload}>
-                <a href={resumeUrl} download="Aathif_Zahir_CV.pdf">
+                <a href={resumeUrl} download="Shashank_Poojary_CV.pdf">
                   <Download className="w-4 h-4" />
                   Download Resume
                 </a>

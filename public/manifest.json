@@ -10,8 +10,13 @@
   "icons": [
     {
       "src": "/slogo.png",
-      "sizes": "48x48",
-      "type": "image/x-icon"
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/slogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
