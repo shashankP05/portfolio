@@ -1,0 +1,22 @@
+
+{
+  "name": "Shashank Poojary",
+  "short_name": "SK Portfolio",
+  "description": "Portfolio website of Shashank Poojary, a Computer Science student specializing in ML engineering.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2662d9",
+  "icons": [
+    {
+      "src": "/slogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/slogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
